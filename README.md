@@ -36,7 +36,7 @@ This project was developed as part of my **internship at Alfifo Tech** 🚀.
 # Run the script:
 
    ```bash
-   python guess_game.py
+   python num_guess.py
    ```
 
 ## 🎯 Learnings
@@ -49,4 +49,4 @@ This project was developed as part of my **internship at Alfifo Tech** 🚀.
 
 ## 🙌 Acknowledgement
 
-This project was completed as part of my **internship journey at Alfifo Tech** 💼🌟
+This project was completed as part of my **Internship journey at Alfido Tech** 💼🌟
