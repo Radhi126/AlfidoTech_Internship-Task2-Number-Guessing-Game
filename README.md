@@ -29,7 +29,7 @@ This project was developed as part of my **internship at Alfifo Tech** 🚀.
 
 ## 🚀 How to Run the Game
 
-# Run the script:
+Run the script:
 
    ```bash
    python num_guess.py
