@@ -1,8 +1,6 @@
 # 🎯 Number Guessing Game (with GUI)
 
 A fun and interactive **Number Guessing Game** built using **Python** and **Tkinter**.
-This project was developed as part of my **internship at Alfifo Tech** 🚀.
-
 ---
 
 ## 📌 Features
