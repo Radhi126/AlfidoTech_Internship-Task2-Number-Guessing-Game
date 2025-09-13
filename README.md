@@ -1,7 +1,3 @@
-Perfect ✅ A **README.md** makes your GitHub repo look professional and helps others quickly understand your project. Here’s a well-structured README for your **Number Guessing Game (with GUI)**:
-
----
-
 # 🎯 Number Guessing Game (with GUI)
 
 A fun and interactive **Number Guessing Game** built using **Python** and **Tkinter**.
